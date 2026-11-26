@@ -1,6 +1,6 @@
 public class Order {
     
-    public String orderId;
+    private String orderId;
     private String userId;
     private String proId;
     private String orderTime;
